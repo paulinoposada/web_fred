@@ -5,7 +5,7 @@
 
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-		<title>documentacio_general</title>
+		<title>diagrames_ph</title>
 		<!--link type="text/css" rel="stylesheet" href="tecno.css" /-->
 		
 	</head>
@@ -13,72 +13,19 @@
 
 	<body>
 		
-		<h2>Documentaci&oacute; general</h2>		
+		<h2>Diagrames de Molliere</h2>		
 		<p>
 			<ul>
 					
-			<li><a href="./catalegs.html">
-			Cat&agrave;legs</a>
+			<li><a href="../documents/diagrames_ph/molliere_r134a.pdf">
+			R-134a</a>
 			</li> 
 
-
-			<li><a href="https://www.danfoss.com/en/products/dcs/">
-			Danfoss climat solutions for cooling</a>
+			<li><a href="../documents/diagrames_ph/molliere_r410a.pdf">
+			R-410a</a>
 			</li> 
+
 			
-			<li><a href="https://www.danfoss.com/es-es/service-and-support/downloads/dcs/ref-tools/#tab-overview">
-			Danfoss Ref Tools - Regla refrigerantes</a>
-			</li> 
-
-
-			<li><a href="./diversos.html">
-			Diversos</a>
-			</li> 
-			
-			<li><a href="./diagrames_ph.html">
-			Diagrames mollier</a>
-			</li> 
-
-
-			<li><a href="https://gas-servei.com/">
-			Gas Servei
-			</a></li>
-
-			<li><a href="./legislacio.html">
-			Legislaci&oacute; gasos fluorats
-			</a></li>
-
-			<li><a href="./manuals_instruccio.html">
-			Manuals intsrucci&oacute;</a>
-			</li> 
-
-			<li><a href="https://paulinoposada.github.io/web_fred/documents/manuales_practicos%20_refrigeracion_1_marcombo.pdf">
-			Marcombo - Manuales Pr&aacute;cticos Refrigeraci&oacute;n
-			</a></li>
-		
-			<li><a href="https://paulinoposada.github.io/web_fred/documents/simbologia_refrigeracion_RSIF.pdf">
-			Simbologia refrigeraci&oacute; RSIF
-			</a></li>
-			
-			<li><a href="https://www.achrnews.com/">
-			The News - Air Conditioning, Heating, Refrigeration
-			</a></li>
-
-
-			<li><a href="https://paulinoposada.github.io/web_fred/documents/BOE-A-2012-10867.pdf">
-			T&iacute;tol-RD 1075/2012 - T&eacute;cnico Superior en Organizaci&oacute;n del Mantenimiento de Maquinaria de
-			Buques y Embarcaciones</a>
-			</li>
-	
-			<li><a href="https://paulinoposada.github.io/web_fred/documents/BOE-A-2015-8478.pdf">
-			Curr&iacute;culo-Orden ECD/1543/2015 - T&eacute;cnico Superior en Organizaci&oacute;n del Mantenimiento de 				Maquinaria de Buques y Embarcaciones</a>
-			</li>
-
-
-			<li><a href="../documents/BOE-A-2024-10685.pdf">
-			Real Decreto 500/2024 - modificaci&oacute; t&iacute;tols</a>
-			</li>
-
 			
 			</ul>
 
