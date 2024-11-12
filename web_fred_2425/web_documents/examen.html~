@@ -13,14 +13,23 @@
 
 	<body>
 		
-		<h2>Ex&agrave;mens</h2>
+		<h2>	Ex&agrave;mens
+
+			</br>
+			</br>
+		
+			El pr&ograve;xim examen tindr&agrave; lloc dijous, 28 de novembre.
+
+			</br>
+			</br>
+	
+			El pr&oacute;ximo examen tendr&aacute; lugar jueves, 28 de noviembre.
+
+		</h2>
+
 
 		<p>
-			</br>
-			</br>
-
-			
-
+		
                      
 			<ul>
 
@@ -31,6 +40,9 @@
 			Examen del 07/11/24
 			</a></li>
 
+			<li><a href="../examens/241107_omf_map33b_examen_sol.pdf">
+			Examen del 07/11/24 - soluci&oacute;
+			</a></li>
 
 			
 			</ul>
