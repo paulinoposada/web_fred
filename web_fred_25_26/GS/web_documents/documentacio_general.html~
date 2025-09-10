@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+		<title>documentacio_general</title>
+		<!--link type="text/css" rel="stylesheet" href="tecno.css" /-->
+		
+	</head>
+
+
+	<body>
+		
+		<h2>Documentaci&oacute; general</h2>		
+		<p>
+			<ul>
+					
+			<li><a href="https://www.bitzer.de/es/es/tools-archive/software/software/software-versions.jsp">
+			Bitzer Software - Software para la selecci&oacute;n de compresores, intercambiadores de calor y accesorios de una amplia gama de productos de BITZER.</a>
+			</li> 
+			
+
+			<li><a href="./catalegs.html">
+			Cat&agrave;legs</a>
+			</li> 
+
+
+			<li><a href="https://www.danfoss.com/en/products/dcs/">
+			Danfoss climat solutions for cooling</a>
+			</li> 
+			
+			<li><a href="https://www.danfoss.com/es-es/service-and-support/downloads/dcs/ref-tools/#tab-overview">
+			Danfoss Ref Tools - Regla refrigerantes</a>
+			</li> 
+
+
+			<li><a href="./diversos.html">
+			Diversos</a>
+			</li> 
+			
+			<li><a href="./diagrames_ph.html">
+			Diagrames mollier</a>
+			</li> 
+
+			<li><a href="../documents/certification_heat_exchangers.pdf">
+			Certification Heat Exchangers</a>
+			</li> 
+
+
+			<li><a href="../documents/compressor_starting_methods.pdf">
+			Compressor Starting Methods</a>
+			</li> 
+
+			<li><a href="https://gas-servei.com/">
+			Gas Servei
+			</a></li>
+
+			<li><a href="https://www.gelpha.com/es/">
+			Gelpha - maquinaria frigor&iacute;fica
+			</a></li>
+
+
+			<li><a href="../inventari_fred/Inventari_Fred.pdf">
+			Inventari taller fred
+			</a></li>
+
+
+			<li><a href="./legislacio.html">
+			Legislaci&oacute; gasos fluorats
+			</a></li>
+
+			<li><a href="./manuals_instruccio.html">
+			Manuals intsrucci&oacute;</a>
+			</li> 
+
+			<li><a href="https://paulinoposada.github.io/web_fred/documents/manuales_practicos%20_refrigeracion_1_marcombo.pdf">
+			Marcombo - Manuales Pr&aacute;cticos Refrigeraci&oacute;n
+			</a></li>
+
+			<li><a href="../documents/une_1102_91.pdf">
+			Simbologia fontaner&iacute;a - UNE 1102-1:1991
+			</a></li>
+
+			<li><a href="https://paulinoposada.github.io/web_fred/documents/simbologia_refrigeracion_RSIF.pdf">
+			Simbologia refrigeraci&oacute; RSIF
+			</a></li>
+			
+			<li><a href="https://www.achrnews.com/">
+			The News - Air Conditioning, Heating, Refrigeration
+			</a></li>
+
+
+			<li><a href="https://paulinoposada.github.io/web_fred/documents/BOE-A-2012-10867.pdf">
+			T&iacute;tol-RD 1075/2012 - T&eacute;cnico Superior en Organizaci&oacute;n del Mantenimiento de Maquinaria de
+			Buques y Embarcaciones</a>
+			</li>
+	
+			<li><a href="https://paulinoposada.github.io/web_fred/documents/BOE-A-2015-8478.pdf">
+			Curr&iacute;culo-Orden ECD/1543/2015 - T&eacute;cnico Superior en Organizaci&oacute;n del Mantenimiento de 				Maquinaria de Buques y Embarcaciones</a>
+			</li>
+
+
+			<li><a href="../documents/BOE-A-2024-10685.pdf">
+			Real Decreto 500/2024 - modificaci&oacute; t&iacute;tols</a>
+			</li>
+
+			<li><a href="../documents/solkane8.zip">
+			Solkane 8 zip - Programa de simulaci&oacute; d'instal.lacions frigor&iacute;fiques</a>
+			</li>
+			
+			</ul>
+
+			<a href="../index_fred_2425.html">Tornar</a>
+			</br>
+			</br>
+
+			</br>
+			
+		</p>
+	</body>
+</html>

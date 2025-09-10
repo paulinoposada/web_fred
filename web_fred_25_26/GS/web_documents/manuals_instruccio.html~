@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+		<title>manuals instrucci&oacute;</title>
+		<!--link type="text/css" rel="stylesheet" href="tecno.css" /-->
+		
+	</head>
+
+
+	<body>
+		
+		
+		<p>
+		<h2>Manuals instrucci&oacute;</h2>
+
+			<ul>
+
+			<li><a href="https://paulinoposada.github.io/web_fred/documents/split_ix_instalacion.pdf">
+			Aire condicionat split IX - instruccions</a>
+			</li> 
+
+			<li><a href="https://paulinoposada.github.io/web_fred/documents/split_ix_instalacion_eng.pdf">
+			Aire condicionat split IX - instruccions muntatge en angl&egrave;s</a>
+			</li> 
+
+			<li><a href="https://paulinoposada.github.io/web_fred/documents/split_ix_instalacion_owner.pdf">
+			Aire condicionat split IX - instruccions usuari en angl&egrave;s</a>
+			</li> 
+
+			<li><a href="https://paulinoposada.github.io/web_fred/documents/scale_sego_scl.pdf">
+			Balan&ccedil;a SEGO SCL - instruccions</a>
+			</li> 
+
+			<li><a href="https://paulinoposada.github.io/web_fred/documents/sego_recv_32.pdf">
+			Unitat de recuperaci&oacute; de refrigerant SEGO RECV R32 - instruccions</a>
+			</li> 
+
+
+			
+			</ul>
+
+			<a href="../web_documents/documentacio_general.html">Tornar</a>
+			</br>
+			</br>
+
+			</br>
+			
+		</p>
+	</body>
+</html>
