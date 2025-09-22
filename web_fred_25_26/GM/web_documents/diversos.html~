@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+		<title>diversos</title>
+		<!--link type="text/css" rel="stylesheet" href="tecno.css" /-->
+		
+	</head>
+
+
+	<body>
+		
+		<h2>Diversos</h2>
+
+		<p>
+		
+
+			<ul>
+
+			<li><a href="https://www.caloryfrio.com/refrigeracion-frio/refrigeracion-con-co2-como-porque-infografia.html">
+			CO2 - Calor y fr&iacute;o - transcr&iacute;tico y subcr&iacute;tico
+			</a></li>
+
+			<li><a href="https://www.caloryfrio.com/refrigeracion-frio/refrigeracion-con-co2-transcritico-que-es-como-funciona.html">
+			CO2 - Calor y fr&iacute;o - transcr&iacute;tico c&oacute;mo funciona
+			</a></li>
+
+			<li><a href="../documents/co2/co2_transcritical.pdf">
+			CO2 - transcritical
+			</a></li>
+
+			<li><a href="../documents/co2/co2_solutions_danfoss.pdf">
+			CO2 - solutions Danfoss
+			</a></li>
+
+			<li><a href="../documents/datalogger_image.pdf">
+			Datalogger imatge
+			</a></li>
+
+			<li><a href="../documents/datalogger.ogv">
+			Datalogger v&iacute;deo
+			</a></li>
+
+			<li><a href="https://www.herramientasingenieria.com/onlinecalc/spa/onlinecalcIndex.html">
+			Herramientas de ingenier&iacute;a - calculadoras online (psicrometr&iacute;a)
+			</a></li>
+
+			
+
+
+
+
+			
+			</ul>
+
+			<a href="./documentacio_general.html">Tornar</a>
+			</br>
+			</br>
+
+			</br>
+			
+		</p>
+	</body>
+</html>
