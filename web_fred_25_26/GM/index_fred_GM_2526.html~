@@ -15,12 +15,11 @@
 
 		<h2>Installacions Frigor&iacute;fiques - Grau Mitj&agrave; - curs 2025/26</h2>
 		<h3>Professor Paulino Posada - pposada@cifpnauticopesquera.es</h3> 
-				
 
 
-
-	
-				<ul>
+ <table>
+  <tr>
+    <th>				<ul>
 								
 				
 				
@@ -32,7 +31,7 @@
 				<li><a href="./web_documents/apunts.html">Apunts</a>
 				</li>
 
-				<li><a href="./documents_gm/ta/ta_01.pdf">Treball Aut&ograve;nom</a>
+				<li><a href="./web_documents/ta.html">Treball Aut&ograve;nom</a>
 				</li> 
 
 
@@ -56,7 +55,20 @@
 				</li> 
 
 				</ul>
-		</br>
+	</th>
+    <th><img src="./r600.png" alt="r600" width="300" height="500"/></th>
+ 
+  </tr>
+ 
+</table> 
+
+		
+				
+
+
+
+	
+	</br>
 		</br>
 
 		

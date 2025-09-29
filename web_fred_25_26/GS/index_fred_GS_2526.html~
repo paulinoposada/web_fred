@@ -16,6 +16,9 @@
 		<h2>Installacions Frigor&iacute;fiques - Grau Superior - curs 2025/26</h2>
 		<h3>Professor Paulino Posada - pposada@cifpnauticopesquera.es</h3> 
 				
+ <table>
+  <tr>
+    <td>				
 
 
 
@@ -36,7 +39,7 @@
 				</li> 
 
 
-				<li><a href="./documents/diari_fred_gs.pdf">Diari</a>
+				<li><a href="./documents_gs/diari_fred_gs.pdf">Diari</a>
 				</li>
 				
 				<li><a href="./web_documents/examen.html">Ex&agrave;mens</a>
@@ -56,6 +59,16 @@
 				</li> 
 
 				</ul>
+
+	</td>
+    <td><img src="./r290.jpg" alt="r600" width="500" height="500"/></td>
+ 
+  </tr>
+ 
+</table> 
+
+
+
 		</br>
 		</br>
 
