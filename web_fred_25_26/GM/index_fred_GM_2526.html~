@@ -19,7 +19,8 @@
 
  <table>
   <tr>
-    <th>				<ul>
+    <td>				
+				<ul>
 								
 				
 				
@@ -55,8 +56,8 @@
 				</li> 
 
 				</ul>
-	</th>
-    <th><img src="./r600.png" alt="r600" width="300" height="500"/></th>
+	</td>
+    <td><img src="./r600.png" alt="r600" width="300" height="500"/></td>
  
   </tr>
  
