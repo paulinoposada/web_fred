@@ -21,7 +21,7 @@
 			<ul>
 
 			<li><a href="https://frigoristas.wordpress.com/">
-			Blog Instalaciones frigoríficas de César Gonzälez Valiente
+			Blog Instalaciones frigor&iacute;ficas de C&eacute;sar Gonz&aacute;lez Valiente
 			</a></li>
 
 			<li><a href="https://www.caloryfrio.com/refrigeracion-frio/refrigeracion-con-co2-como-porque-infografia.html">
@@ -79,6 +79,16 @@
 
 			<li><a href="../../documents/log_251210.ods">
 			LOG_251210 - Dades registrades al simulador de fred el 10/12/25, format .ods 
+			</a></li>
+
+
+
+			<li><a href="../../documents/260210_temperaturas_enfriadora_4400_7200.pdf">
+			LOG_260210 - Gr&agrave;fic de les dades registrades a l'refredadora (chiller WEBASTO) el 10/02/26, intervalo de 4700 a 7200 s, format .pdf 
+			</a></li>
+
+			<li><a href="../../documents/260210_temperaturas_enfriadora_4700_5700.pdf">
+			LOG_260210 - Gr&agrave;fic de les dades registrades a l'refredadora (chiller WEBASTO) el 10/02/26, intervalo de 4700 a 5700 s,  format .pdf 
 			</a></li>
 
 
