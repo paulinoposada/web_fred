@@ -1,0 +1,87 @@
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20260505103550+02&apos;00&apos;
+InfoBegin
+InfoKey: Creator
+InfoValue: pdftk-java 3.3.3
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20260505103550+02&apos;00&apos;
+InfoBegin
+InfoKey: Producer
+InfoValue: itext-paulo-155 (itextpdf.sf.net - lowagie.com)
+PdfID0: 266ab01c945ce025499047f1074b704a
+PdfID1: d0babd2d2e4ff5ba807e38dd2b9ac511
+NumberOfPages: 8
+BookmarkBegin
+BookmarkTitle: Page 1
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: Page 2
+BookmarkLevel: 1
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: Page 3
+BookmarkLevel: 1
+BookmarkPageNumber: 3
+BookmarkBegin
+BookmarkTitle: Page 4
+BookmarkLevel: 1
+BookmarkPageNumber: 4
+BookmarkBegin
+BookmarkTitle: Page 5
+BookmarkLevel: 1
+BookmarkPageNumber: 5
+BookmarkBegin
+BookmarkTitle: Page 6
+BookmarkLevel: 1
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: Page 1
+BookmarkLevel: 1
+BookmarkPageNumber: 7
+BookmarkBegin
+BookmarkTitle: Page 1
+BookmarkLevel: 1
+BookmarkPageNumber: 8
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 594.992 841.975
+PageMediaDimensions: 594.992 841.975
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 594.992 841.975
+PageMediaDimensions: 594.992 841.975
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 594.992 841.975
+PageMediaDimensions: 594.992 841.975
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 594.992 841.975
+PageMediaDimensions: 594.992 841.975
+PageMediaBegin
+PageMediaNumber: 5
+PageMediaRotation: 0
+PageMediaRect: 0 0 594.992 841.975
+PageMediaDimensions: 594.992 841.975
+PageMediaBegin
+PageMediaNumber: 6
+PageMediaRotation: 0
+PageMediaRect: 0 0 594.992 841.975
+PageMediaDimensions: 594.992 841.975
+PageMediaBegin
+PageMediaNumber: 7
+PageMediaRotation: 0
+PageMediaRect: 0 0 841.89 595.304
+PageMediaDimensions: 841.89 595.304
+PageMediaBegin
+PageMediaNumber: 8
+PageMediaRotation: 0
+PageMediaRect: 0 0 841.89 595.304
+PageMediaDimensions: 841.89 595.304
